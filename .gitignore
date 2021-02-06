@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs
+/BookStrore/.vs/BookStrore
+/BookStrore/BookStrore.UI/bin/Debug/netcoreapp3.1
+/BookStrore/BookStrore.UI/obj
